@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-26T15:51:33 EDT" name="Suite" finished-at="2024-10-26T15:54:21 EDT" duration-ms="168277">
+    <groups>
+    </groups>
+    <test started-at="2024-10-26T15:51:33 EDT" name="SalesForceLoginTest" finished-at="2024-10-26T15:52:34 EDT" duration-ms="61397">
+      <class name="com.automation.test.LoginScripts">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:51:33 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:51:41 EDT" duration-ms="7332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="forgotpwd_invalid()[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:51:41 EDT" name="forgotpwd_invalid" finished-at="2024-10-26T15:51:45 EDT" duration-ms="3984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpwd_invalid -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:51:45 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:51:45 EDT" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:51:45 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:51:52 EDT" duration-ms="7403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="rememberme_Login()[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:51:52 EDT" name="rememberme_Login" finished-at="2024-10-26T15:52:01 EDT" duration-ms="8659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rememberme_Login -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:01 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:52:01 EDT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:01 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:52:08 EDT" duration-ms="6460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="valid_Login()[pri:1, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:08 EDT" name="valid_Login" finished-at="2024-10-26T15:52:14 EDT" duration-ms="5984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_Login -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:14 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:52:14 EDT" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:14 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:52:20 EDT" duration-ms="6472" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="invalid_Login()[pri:2, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:20 EDT" name="invalid_Login" finished-at="2024-10-26T15:52:24 EDT" duration-ms="3703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_Login -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:24 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:52:24 EDT" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:24 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:52:31 EDT" duration-ms="6399" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="forgotpwd_validation()[pri:4, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:31 EDT" name="forgotpwd_validation" finished-at="2024-10-26T15:52:34 EDT" duration-ms="3647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpwd_validation -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LoginScripts@38f116f6]" started-at="2024-10-26T15:52:34 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:52:34 EDT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+      </class> <!-- com.automation.test.LoginScripts -->
+    </test> <!-- SalesForceLoginTest -->
+    <test started-at="2024-10-26T15:52:35 EDT" name="SalesForceLeadTest" finished-at="2024-10-26T15:53:52 EDT" duration-ms="77026">
+      <class name="com.automation.test.LeadScripts">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:52:35 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:52:41 EDT" duration-ms="6401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="check_LeadTabLink()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:52:41 EDT" name="check_LeadTabLink" finished-at="2024-10-26T15:52:52 EDT" duration-ms="10419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_LeadTabLink -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:52:52 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:52:52 EDT" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:52:52 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:52:58 EDT" duration-ms="6418" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="select_TodaysLead()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:52:58 EDT" name="select_TodaysLead" finished-at="2024-10-26T15:53:06 EDT" duration-ms="7709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_TodaysLead -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:06 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:53:06 EDT" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:06 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:53:13 EDT" duration-ms="6420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="check_LeadsSelectView()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:13 EDT" name="check_LeadsSelectView" finished-at="2024-10-26T15:53:20 EDT" duration-ms="7004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_LeadsSelectView -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:20 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:53:20 EDT" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:20 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:53:26 EDT" duration-ms="6359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="new_TodaysLeadSave()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:26 EDT" name="new_TodaysLeadSave" finished-at="2024-10-26T15:53:31 EDT" duration-ms="4876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- new_TodaysLeadSave -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:31 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:53:31 EDT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:31 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:53:38 EDT" duration-ms="6397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="check_LeadsDefaultView()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:38 EDT" name="check_LeadsDefaultView" finished-at="2024-10-26T15:53:52 EDT" depends-on-methods="com.automation.test.LeadScripts.check_LeadTabLink" duration-ms="13954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_LeadsDefaultView -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.LeadScripts@686449f9]" started-at="2024-10-26T15:53:52 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:53:52 EDT" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+      </class> <!-- com.automation.test.LeadScripts -->
+    </test> <!-- SalesForceLeadTest -->
+    <test started-at="2024-10-26T15:53:52 EDT" name="SalesForceOportunityTest" finished-at="2024-10-26T15:54:21 EDT" duration-ms="29289">
+      <class name="com.automation.test.OpportunityScripts">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.OpportunityScripts@4da602fc]" started-at="2024-10-26T15:53:52 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:53:59 EDT" duration-ms="6597" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="test_OppPipelineReport()[pri:0, instance:com.automation.test.OpportunityScripts@4da602fc]" started-at="2024-10-26T15:53:59 EDT" name="test_OppPipelineReport" finished-at="2024-10-26T15:54:08 EDT" duration-ms="8972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_OppPipelineReport -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.OpportunityScripts@4da602fc]" started-at="2024-10-26T15:54:08 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:54:08 EDT" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.automation.test.OpportunityScripts@4da602fc]" started-at="2024-10-26T15:54:08 EDT" name="setUpBeforeMethod" finished-at="2024-10-26T15:54:14 EDT" duration-ms="6456" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="test_OppStuckReport()[pri:0, instance:com.automation.test.OpportunityScripts@4da602fc]" started-at="2024-10-26T15:54:14 EDT" name="test_OppStuckReport" finished-at="2024-10-26T15:54:21 EDT" duration-ms="6846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_OppStuckReport -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:com.automation.test.OpportunityScripts@4da602fc]" started-at="2024-10-26T15:54:21 EDT" name="tearDownAfterMethod" finished-at="2024-10-26T15:54:21 EDT" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+      </class> <!-- com.automation.test.OpportunityScripts -->
+    </test> <!-- SalesForceOportunityTest -->
+  </suite> <!-- Suite -->
+</testng-results>
